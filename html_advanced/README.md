@@ -1,7 +1,3 @@
-
-
-#
-
 <p><img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231106%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231106T062647Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d280ebfbad77e16d32e2314917a117f2bcf5cce2b4f2212bae36effb77a48347" alt="" loading='lazy' style="" /></p>
 
 <h1>Welcome!</h1>
