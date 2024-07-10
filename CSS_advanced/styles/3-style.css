@@ -4,7 +4,8 @@ a {color: #161616;}
 visually-hidden {display: none;}
 card-category {color: #D73953}
 section-tagline {color: #D73953 }
-root {
+/* 3. Reuse and repeat. A programmer's life should be simple with variables*/
+:root {
 	--color-primary: #D73953;
 	--color-black: #090909;
 	--color-white: #ffffff;
