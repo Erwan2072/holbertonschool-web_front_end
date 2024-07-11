@@ -1,0 +1,22 @@
+[class^="col-"] {
+    float: left;
+    padding: 0.5rem;
+}
+
+/*22. Add a dark theme to sections*/
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background: var(--color-black)
+}
+
+/*23. Fix issues for dark theme*/
+.footer-address {
+    color: var(--text-color);
+}
+.social-link {
+    display: block;
+}
+.social-link > svg {
+    fill: var(--text-color);
+}

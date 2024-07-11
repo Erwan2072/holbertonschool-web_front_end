@@ -1,0 +1,12 @@
+[class^="col-"] {
+    float: left;
+    padding: 0.5rem;
+}
+
+/*22. Add a dark theme to sections*/
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background: var(--color-black)
+}
+
