@@ -602,7 +602,6 @@ ul.row {
   }
 
 /*21. Simplify the col- selector*/
-
 [class^="col-"] {
     float: left;
     padding: 0.5rem;
