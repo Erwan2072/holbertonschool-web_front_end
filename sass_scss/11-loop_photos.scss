@@ -1,0 +1,7 @@
+/* Create classes for each name and assign background images */
+
+@each $name in julien, john, sam, damian {
+	.photo-#{$name} {
+	  background: image-url("photos/#{$name}.jpg") no-repeat;
+	}
+  }
