@@ -123,5 +123,5 @@ holbertonschool-web_front_end
 ---
 
 ## Author
-This project is part of the Holberton School curriculum. Authored by [Erwan Lebreton](https://www.linkedin.com/in/erwan-lebreton-336aa8203/).
+This project is part of the Holberton School curriculum. [Erwan Lebreton](https://www.linkedin.com/in/erwan-lebreton-336aa8203/).
 
